@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "vite": "^3.2.3"
+  },
+  "name": "cep_api",
+  "description": "Projeto usando API de busca de CEP",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "vite --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JessicaProenca1/CEP_API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JessicaProenca1/CEP_API/issues"
+  },
+  "homepage": "https://github.com/JessicaProenca1/CEP_API#readme",
+  "type": "module"
+}

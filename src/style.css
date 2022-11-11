@@ -1,0 +1,20 @@
+body {
+  background-color: rgb(0, 71, 71);
+}
+
+.div1{
+  padding-top: 100px;
+  width: 50vh;
+}
+
+.div2{
+  padding-top: 10px;
+  width: 50vh;
+  display: flex;
+  justify-content: center;
+    
+}
+
+#input {
+  width: 150px;
+}
